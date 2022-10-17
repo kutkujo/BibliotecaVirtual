@@ -7,8 +7,8 @@ require "vendor/autoload.php";
 use myPHPnotes\Microsoft\Auth;
 
 $tenant = "common";
-$client_id = "02ad6b4a-c64a-4b09-879b-aac6b05d5b4d";
-$client_secret = "eBN8Q~6pX_9EMWcenzjM-rrqYi5GpdYtFu~YsanN";
+$client_id = "f684b91c-dffd-4df6-8cbd-d9d524a6fabb";
+$client_secret = "HvX8Q~sQiBS7AmD9lZstljDQNRkICYZbL50Aubdc";
 $callback = "http://localhost:8080/callback.php";
 $scopes = ["User.Read"];
 
